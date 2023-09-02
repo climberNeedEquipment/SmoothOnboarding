@@ -59,6 +59,9 @@ This project is licensed under the MIT License.
 - [ ] Automatically make json file for new DEX address additions
 - [x] Token deploy, mint, and approve functions
 - [x] Uniswap V2 integration (NEOSwap, ONESwap)
+- [ ] Create2 deployment
+- [x] Create3Factory deployment
+- [ ] Permit2 deployment
 - [ ] Uniswap V3 integration
 - [ ] Balancer V2 integration
 
@@ -103,3 +106,4 @@ ONESwap
 - DAI : 0xEfbA9791DfDf14844a3Cb2b31F28365F8123193a
 - USDC : 0x33dF7290ED46B714D45Fa21AF857799dA6eeb2b0
 - WETH(WGAS) : 0x3734D23F3E6725fdAc0673EfaCA4b95Fd1c9E932
+- CREATE3Factory : 0x46dBCd60A046EbC547Ab7440e64a35230943283C
